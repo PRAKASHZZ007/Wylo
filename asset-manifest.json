@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Wylo/static/css/main.eac71ffc.css",
+    "main.js": "/Wylo/static/js/main.99ea193a.js",
+    "static/js/453.eaa614b2.chunk.js": "/Wylo/static/js/453.eaa614b2.chunk.js",
+    "index.html": "/Wylo/index.html",
+    "main.eac71ffc.css.map": "/Wylo/static/css/main.eac71ffc.css.map",
+    "main.99ea193a.js.map": "/Wylo/static/js/main.99ea193a.js.map",
+    "453.eaa614b2.chunk.js.map": "/Wylo/static/js/453.eaa614b2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eac71ffc.css",
+    "static/js/main.99ea193a.js"
+  ]
+}
